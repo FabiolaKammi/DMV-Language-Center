@@ -108,7 +108,7 @@
   line-height: $input-line-height;
   color: $input-group-addon-color;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
   background-color: $input-group-addon-bg;
   border: $input-border-width solid $input-group-addon-border-color;
   @include border-radius($input-border-radius);

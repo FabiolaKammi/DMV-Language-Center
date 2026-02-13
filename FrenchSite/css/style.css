@@ -3010,7 +3010,7 @@ input[type="button"].btn-block {
 }
 
 .dropdown-toggle {
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .dropdown-toggle::after {
@@ -3208,7 +3208,7 @@ input[type="button"].btn-block {
   font-weight: 400;
   color: #212529;
   text-align: inherit;
-  white-space: nowrap;
+  white-space: normal;
   background-color: transparent;
   border: 0;
 }
@@ -3241,7 +3241,7 @@ input[type="button"].btn-block {
   margin-bottom: 0;
   font-size: 0.875rem;
   color: #6c757d;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .dropdown-item-text {
@@ -3486,7 +3486,7 @@ input[type="button"].btn-block {
   line-height: 1.5;
   color: #495057;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
   background-color: #e9ecef;
   border: 1px solid #ced4da;
   border-radius: 5px;
@@ -4123,7 +4123,7 @@ input[type="button"].btn-block {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
@@ -4826,7 +4826,7 @@ input[type="button"].btn-block {
   font-weight: 700;
   line-height: 1;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
   vertical-align: baseline;
   border-radius: 5px;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -5163,7 +5163,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   overflow: hidden;
   color: #fff;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
   background-color: #17a2b8;
   transition: width 0.6s ease;
 }
@@ -7486,7 +7486,7 @@ button.bg-dark:focus {
   margin: -1px;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
+  white-space: normal;
   border: 0;
 }
 
@@ -9416,13 +9416,13 @@ button.bg-dark:focus {
 }
 
 .text-nowrap {
-  white-space: nowrap !important;
+  white-space: normal !important;
 }
 
 .text-truncate {
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .text-left {
